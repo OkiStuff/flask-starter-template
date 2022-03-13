@@ -1,2 +1,4 @@
 # flask-starter-template
-Starter template for flask
+Quick and easy template for Flask
+
+## Getting started
